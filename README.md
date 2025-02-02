@@ -14,11 +14,29 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+Below is an interview with a stakeholder.
+
+Interviewer: Benjamin DeWeese  
+Stakeholder: Andy Li, Sophomore in CAS Computer Science with 120 Flex Plus meal plan.
+
+Summary of goals/needs:
+
+- It should feel simple. ideally, similar to Venmo.
+- Be able to see current balance & spending history.
+- Know how many swipes you have donated, as well as how many everybody else is donating.
+- Be able to export your data.
+- Integrate or Google or CILogin for easy sign-up.
+
+Summary of problems/frustrations:
+
+- The current website and physical solution are annoying. It is poorly advertised and you can only donate up to 3 swipes a day.
+- There is no integrated mobile way to see meal swipe balance unless you connect to a GrubHub account. And your balance is not clear. You have to navigate confusing sub-menus to find it.
+- [If I want to give a friend a swipe right now,] I have to physically tap my friend in, meaning, I have to be there with them.
+- Apps that try to do everything are just bad. A pocket-knife becomes ineffective when it turns into a multi-tool with 30 moving pieces. It should just send and donate meals. There is no reason to integrate something like a chatbot.
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+This app should be a simple tool, capable of P2P sending and P2E donating of meal swipes.
 
 ## User Requirements
 
