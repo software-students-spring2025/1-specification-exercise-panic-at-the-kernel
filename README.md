@@ -28,9 +28,9 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 * As an NYU student, I want to donate meal swipes to the whole NYU community, so that others can get a meal if needed. 
 
-* As a community-driven student, I want to see the amount of donations, so other students and I are more encouraged to make more donations to help others. 
+* As a community-driven student, I want to see the amount of donations, so that other students and I are more encouraged to make more donations to help others. 
 
-* As an NYU student, I want to see what food purchases I made, so I can control my budget in meal swipes and dining dollars. 
+* As an NYU student, I want to see what food purchases I made, so that I can control my budget in meal swipes and dining dollars. 
 
 ## Activity Diagrams
 
