@@ -40,7 +40,7 @@ This app should be a simple tool, capable of P2P sending and P2E donating of mea
 
 ## User Requirements
 
-* As a new user, I want to be able to register, log in, and sign out, so that I have an account that stores my meal plan and donation information. 
+* As a new user, I want to be able to log in and sign out, so that I have a protected account that stores my meal plan and donation information. 
 
 * As a new user, I want to view my personalized account, so that I can know my current status on meal swipes and dining dollars. 
 
@@ -48,7 +48,7 @@ This app should be a simple tool, capable of P2P sending and P2E donating of mea
 
 * As a community-driven student, I want to see the amount of donations, so that other students and I are more encouraged to make more donations to help others. 
 
-* As an NYU student, I want to see what food purchases I made, so that I can control my budget in meal swipes and dining dollars. 
+* As an NYU student, I want to see what food purchases I made, so that I can control my budget in meal swipes and dining dollars.
 
 ## Activity Diagrams
 
