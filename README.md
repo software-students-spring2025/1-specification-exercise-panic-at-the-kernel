@@ -4,13 +4,13 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-* [Benjamin DeWeese](https://github.com/bdeweesevans)
+- [Benjamin DeWeese](https://github.com/bdeweesevans)
 
-* [Jessica Chen](https://github.com/jessicahc)
+- [Jessica Chen](https://github.com/jessicahc)
 
-* [Jennifer Yu](https://github.com/jenniferyuuu)
+- [Jennifer Yu](https://github.com/jenniferyuuu)
 
-* [Patrick Cao](https://github.com/Novrain7)
+- [Patrick Cao](https://github.com/Novrain7)
 
 ## Stakeholders
 
@@ -40,19 +40,31 @@ This app should be a simple tool, capable of P2P sending and P2E donating of mea
 
 ## User Requirements
 
-* As a new user, I want to be able to register, log in, and sign out, so that I have an account that stores my meal plan and donation information. 
+- As a new user, I want to be able to register, log in, and sign out, so that I have an account that stores my meal plan and donation information.
 
-* As a new user, I want to view my personalized account, so that I can know my current status on meal swipes and dining dollars. 
+- As a new user, I want to view my personalized account, so that I can know my current status on meal swipes and dining dollars.
 
-* As an NYU student, I want to donate meal swipes to the whole NYU community, so that others can get a meal if needed. 
+- As an NYU student, I want to donate meal swipes to the whole NYU community, so that others can get a meal if needed.
 
-* As a community-driven student, I want to see the amount of donations, so other students and I are more encouraged to make more donations to help others. 
+- As a community-driven student, I want to see the amount of donations, so other students and I are more encouraged to make more donations to help others.
 
-* As an NYU student, I want to see what food purchases I made, so I can control my budget in meal swipes and dining dollars. 
+- As an NYU student, I want to see what food purchases I made, so I can control my budget in meal swipes and dining dollars.
+
+- As an NYU student, I want to search for a particular student's name or ID so that I can donate meal swipes to a friend.
+
+- As an NYU student, I want to have a tool that tells me if I have enough meal swipes for the rest of the semester based on my past spending history so that I can plan to donate or claim meal swipes from the meal donation pool.
+
+- As an NYU student, I want to schedule my meal swipe donations so that I can donate meal swipes automatically and periodically.
+
+- As an NYU student, I want to specify the number of meal swipes to donate so that I can donate multiple meal swipes at a time.
+
+- As an NYU student facing food insecurity, I want to claim meal swipes from the meal donation pool so that I don’t run out of meals.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+### UML Activity Diagram 2
+
+User story: As an NYU student facing food insecurity, I want to claim meal swipes from the meal donation pool so that I don’t run out of meals.
 
 ## Clickable Prototype
 
