@@ -68,9 +68,13 @@ This app should be a simple tool, capable of P2P sending and P2E donating of mea
 
 User Story: As an NYU student, I want to donate meal swipes to the whole NYU community so that others can get a meal if needed.
 
+![UML Activity Diagram 1](https://github.com/software-students-spring2025/1-specification-exercise-panic-at-the-kernel/blob/main/images/diagram1.png)
+
 ### UML Activity Diagram 2
 
 User Story: As an NYU student facing food insecurity, I want to claim meal swipes from the meal donation pool so that I don’t run out of meals.
+
+![UML Activity Diagram 2](https://github.com/software-students-spring2025/1-specification-exercise-panic-at-the-kernel/blob/main/images/diagram2.png)
 
 ## Clickable Prototype
 
