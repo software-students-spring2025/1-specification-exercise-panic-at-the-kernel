@@ -66,11 +66,11 @@ This app should be a simple tool, capable of P2P sending and P2E donating of mea
 
 ### UML Activity Diagram 1
 
-User story: As an NYU student, I want to donate meal swipes to the whole NYU community so that others can get a meal if needed.
+User Story: As an NYU student, I want to donate meal swipes to the whole NYU community so that others can get a meal if needed.
 
 ### UML Activity Diagram 2
 
-User story: As an NYU student facing food insecurity, I want to claim meal swipes from the meal donation pool so that I don’t run out of meals.
+User Story: As an NYU student facing food insecurity, I want to claim meal swipes from the meal donation pool so that I don’t run out of meals.
 
 ## Clickable Prototype
 
