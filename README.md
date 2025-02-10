@@ -78,4 +78,4 @@ User Story: As an NYU student facing food insecurity, I want to claim meal swipe
 
 ## Clickable Prototype
 
-[Link to figma wireframe and prototype](https://www.figma.com/design/M8t1q1nThXi4hfdKybLmW2/Panic!-At-The-Kernel?node-id=0-1&t=q4bpVzTzLkusd6P7-1)
+[Link to figma wireframe and prototype](https://www.figma.com/proto/M8t1q1nThXi4hfdKybLmW2/Panic!-At-The-Kernel?node-id=130-1346&p=f&t=bvO3XFZsF5HA7Ing-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=130%3A1346)
