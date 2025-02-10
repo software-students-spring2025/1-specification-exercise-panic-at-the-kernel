@@ -46,21 +46,19 @@ This app should be a simple tool, capable of P2P sending and P2E donating of mea
 
 - As an NYU student, I want to donate meal swipes to the whole NYU community so that others can get a meal if needed.
 
-- As an NYU student, I want to individually send meal swipes to friends so that they can have more meals when hungry. 
-
 - As a community-driven student, I want to see the amount of donations so that other students and I are more encouraged to make more donations to help others.
 
 - As an NYU student, I want to see what food purchases I made so that I can control my budget in meal swipes and dining dollars.
 
-- As an NYU student, I want to search for a particular student's name or ID so that I can donate meal swipes to a friend.
+- As an NYU student, I want to specify a particular student's ID so that I can donate meal swipes to a friend.
 
-- As an NYU student, I want to have a tool that tells me if I have enough meal swipes for the rest of the semester based on my past spending history so that I can plan to donate or claim meal swipes from the meal donation pool.
+- As an NYU student, I want to see some statistics about my meal swipe spending habit so that I can plan for donation or requesting for meal swipes from the community meal pool.
 
-- As an NYU student, I want to schedule my meal swipe donations so that I can donate meal swipes automatically and periodically.
+- As an NYU student, I want to see the dates of my meal swipe transactions so that I can keep track of my spending habit.
 
 - As an NYU student, I want to specify the number of meal swipes to donate so that I can donate multiple meal swipes at a time.
 
-- As an NYU student facing food insecurity, I want to claim meal swipes from the meal donation pool so that I don’t run out of meals.
+- As an NYU student facing food insecurity, I want to request meal swipes from the community meal pool so that I don’t run out of meals.
 
 ## Activity Diagrams
 
@@ -72,7 +70,7 @@ User Story: As an NYU student, I want to donate meal swipes to the whole NYU com
 
 ### UML Activity Diagram 2
 
-User Story: As an NYU student facing food insecurity, I want to claim meal swipes from the meal donation pool so that I don’t run out of meals.
+User Story: As an NYU student facing food insecurity, I want to request meal swipes from the community meal pool so that I don’t run out of meals.
 
 ![UML Activity Diagram 2](https://github.com/software-students-spring2025/1-specification-exercise-panic-at-the-kernel/blob/main/images/diagram2.png)
 
