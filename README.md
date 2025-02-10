@@ -46,7 +46,7 @@ This app should be a simple tool, capable of P2P sending and P2E donating of mea
 
 - As an NYU student, I want to donate meal swipes to the whole NYU community so that others can get a meal if needed.
 
-- As an NYU student, I want to individually send meal swipes to friends, so that they can have more meals when hungry. 
+- As an NYU student, I want to individually send meal swipes to friends so that they can have more meals when hungry. 
 
 - As a community-driven student, I want to see the amount of donations so that other students and I are more encouraged to make more donations to help others.
 
@@ -78,4 +78,4 @@ User Story: As an NYU student facing food insecurity, I want to claim meal swipe
 
 ## Clickable Prototype
 
-[Link to figma wireframe and prototype](https://www.figma.com/proto/M8t1q1nThXi4hfdKybLmW2/Panic!-At-The-Kernel?node-id=130-1346&p=f&t=bvO3XFZsF5HA7Ing-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=130%3A1346)
+[Link to Figma Wireframe and Prototype](https://www.figma.com/proto/M8t1q1nThXi4hfdKybLmW2/Panic!-At-The-Kernel?node-id=130-1346&p=f&t=bvO3XFZsF5HA7Ing-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=130%3A1346)
