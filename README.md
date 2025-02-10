@@ -78,4 +78,4 @@ User Story: As an NYU student facing food insecurity, I want to claim meal swipe
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Link to figma wireframe and prototype](https://www.figma.com/design/M8t1q1nThXi4hfdKybLmW2/Panic!-At-The-Kernel?node-id=0-1&t=q4bpVzTzLkusd6P7-1)
